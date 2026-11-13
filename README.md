@@ -42,24 +42,6 @@ Scripts desenvolvidos durante as aulas dos cursos de nivelamento e básico do Ha
 
 Projetos desenvolvidos por mim durante a graduação, como projetos pessoais ou acadêmicos.
 
-### Estruturas de Dados em C
-
-🔗 [Repositório](https://github.com/gacampos021/Data-Structure)
-
-Estruturas de armazenamento de dados como listas encadeadas, filas, pilhas e árvores.
-
-### Árvore de Huffman
-
-🔗 [Repositório](https://github.com/gacampos021/-rvore-de-Huffman---Compressao-de-arquivos)
-
-Árvore de Huffman para compressão e descompressão de arquivos de texto. Projeto da disciplina de Estrutura de Dados.
-
-### Fila única com vários caixas
-
-🔗 [Repositório](https://github.com/gacampos021/Fila-unica-atendida-por-varios-caixas)
-
-Fila de atendimento com um único ponto de entrada e vários caixas. Projeto da disciplina de Estrutura de Dados.
-
 ### Análise de Dados em Python
 
 🔗 [Repositório](https://github.com/gacampos021/Analise-de-dados)
@@ -83,6 +65,24 @@ Jogo de batalha naval que pode ser jogado contra um bot ou contra outro jogador.
 🔗 [Repositório](https://github.com/gacampos021/Sistema-de-uma-loja-de-automoveis)
 
 Projeto da disciplina de Programação Orientada a Objetos (POO).
+
+### Estruturas de Dados em C
+
+🔗 [Repositório](https://github.com/gacampos021/Data-Structure)
+
+Estruturas de armazenamento de dados como listas encadeadas, filas, pilhas e árvores.
+
+### Árvore de Huffman
+
+🔗 [Repositório](https://github.com/gacampos021/-rvore-de-Huffman---Compressao-de-arquivos)
+
+Árvore de Huffman para compressão e descompressão de arquivos de texto. Projeto da disciplina de Estrutura de Dados.
+
+### Fila única com vários caixas
+
+🔗 [Repositório](https://github.com/gacampos021/Fila-unica-atendida-por-varios-caixas)
+
+Fila de atendimento com um único ponto de entrada e vários caixas. Projeto da disciplina de Estrutura de Dados.
 
 ---
 
