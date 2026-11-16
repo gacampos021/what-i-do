@@ -38,6 +38,16 @@ Scripts desenvolvidos durante as aulas dos cursos de nivelamento e básico do Ha
 
 ---
 
+---
+
+## Agente LLM Integrado a Bot de Telegram
+
+Agente de LLM com Google SDK para selecionar noticias e enviar via Telegram.
+
+- 🔗 [Repositório](https://github.com/gacampos021/my-news-telegram-agent)
+
+---
+
 ## Projetos da faculdade
 
 Projetos desenvolvidos por mim durante a graduação, como projetos pessoais ou acadêmicos.
