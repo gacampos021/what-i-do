@@ -6,7 +6,7 @@ Desenvolvedor Full Stack. Me formei em **Ciência da Computação pela UNESP (S�
 
 1. [TCC: Qualidade dos Dados](#tcc-qualidade-dos-dados)
 2. [Cibersegurança: Hackers do Bem](#cibersegurança-hackers-do-bem)
-3. [Agente LLM Integrado a Bot de Telegram](#agente-llm-integrado-telegram)
+3. [Agente LLM Integrado a Bot de Telegram](#agente-llm-integrado-a-bot-de-telegram)
 4. [Projetos da faculdade](#projetos-da-faculdade)
    - [Estruturas de Dados em C](#estruturas-de-dados-em-c)
    - [Árvore de Huffman](#árvore-de-huffman)
