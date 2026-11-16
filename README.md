@@ -6,7 +6,8 @@ Desenvolvedor Full Stack. Me formei em **Ciência da Computação pela UNESP (S�
 
 1. [TCC: Qualidade dos Dados](#tcc-qualidade-dos-dados)
 2. [Cibersegurança: Hackers do Bem](#cibersegurança-hackers-do-bem)
-3. [Projetos da faculdade](#projetos-da-faculdade)
+3. [Agente LLM Integrado a Bot de Telegram](#agente-llm-integrado-telegram)
+4. [Projetos da faculdade](#projetos-da-faculdade)
    - [Estruturas de Dados em C](#estruturas-de-dados-em-c)
    - [Árvore de Huffman](#árvore-de-huffman)
    - [Fila única com vários caixas](#fila-única-com-vários-caixas)
@@ -35,8 +36,6 @@ Scripts desenvolvidos durante as aulas dos cursos de nivelamento e básico do Ha
 
 - 🔗 [Scripts em PowerShell](https://github.com/gacampos021/power-shell-scripts)
 - 🔗 [Scripts em Linux](https://github.com/gacampos021/linux-scripts)
-
----
 
 ---
 
