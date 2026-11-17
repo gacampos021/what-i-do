@@ -35,7 +35,7 @@ Os resultados evidenciam a correlação direta entre a presença de ruídos e a 
 
 Exemplo de API em go com login e autenticação com JET token. (Incompleto ainda)
 
-- 🔗 [Repositório]([https://github.com/gacampos021/power-shell-scripts](https://github.com/gacampos021/golang-api-template))
+- 🔗 [Repositório](https://github.com/gacampos021/golang-api-template).
 
 ---
 
